@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 835ca1592522a4db9917e15e8556be3c
+timeCreated: 1508709187
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombey_0_idle_0
+    21300002: Zombey_0_idle_1
+    21300004: Zombey_0_idle_2
+    21300006: Zombey_0_idle_3
+    21300008: Zombey_0_run_00
+    21300010: Zombey_0_run_01
+    21300012: Zombey_0_run_02
+    21300014: Zombey_0_run_03
+    21300016: Zombey_0_run_04
+    21300018: Zombey_0_run_05
+    21300020: Zombey_0_run_06
+    21300022: Zombey_0_run_07
+    21300024: Zombey_0_run_08
+    21300026: Zombey_0_run_09
+    21300028: Zombey_0_jump_00
+    21300030: Zombey_0_jump_01
+    21300032: Zombey_0_jump_02
+    21300034: Zombey_0_jump_03
+    21300036: Zombey_0_jump_04
+    21300038: Zombey_0_jump_05
+    21300040: Zombey_0_jump_06
+    21300042: Zombey_0_attack_00
+    21300044: Zombey_0_attack_01
+    21300046: Zombey_0_attack_02
+    21300048: Zombey_0_attack_03
+    21300050: Zombey_0_attack_04
+    21300052: Zombey_0_attack_05
+    21300054: Zombey_0_dead_00
+    21300056: Zombey_0_dead_01
+    21300058: Zombey_0_dead_02
+    21300060: Zombey_0_dead_03
+    21300062: Zombey_0_dead_04
+    21300064: Zombey_0_dead_05
+    21300066: Zombey_0_dead_06
+    21300068: Zombey_0_dead_07
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombey_0_idle_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 725
+        width: 80
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5704401, y: 0.06078518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_idle_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 725
+        width: 79
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5784649, y: 0.056641523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_idle_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 724
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: 0.57955575, y: 0.051651336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_idle_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 724
+        width: 84
+        height: 137
+      alignment: 9
+      pivot: {x: 0.60733724, y: 0.05576475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_00
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 490
+        width: 93
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50635356, y: 0.063263826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_01
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 490
+        width: 88
+        height: 138
+      alignment: 9
+      pivot: {x: 0.39256772, y: 0.04613705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_02
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 490
+        width: 82
+        height: 138
+      alignment: 9
+      pivot: {x: 0.2838239, y: 0.050418798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_03
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 490
+        width: 92
+        height: 136
+      alignment: 9
+      pivot: {x: 0.27520886, y: 0.05249652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_04
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 490
+        width: 88
+        height: 135
+      alignment: 9
+      pivot: {x: 0.24484807, y: 0.049181677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_05
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 334
+        width: 112
+        height: 142
+      alignment: 9
+      pivot: {x: 0.27314487, y: 0.03811624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_06
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 334
+        width: 123
+        height: 142
+      alignment: 9
+      pivot: {x: 0.37029484, y: 0.03811624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_07
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 334
+        width: 111
+        height: 141
+      alignment: 9
+      pivot: {x: 0.38288948, y: 0.047412414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_08
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 333
+        width: 93
+        height: 141
+      alignment: 9
+      pivot: {x: 0.17597026, y: 0.047412194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_run_09
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 332
+        width: 102
+        height: 139
+      alignment: 9
+      pivot: {x: 0.30304074, y: 0.019645637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_00
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 694
+        width: 73
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4234477, y: 0.04946737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_01
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 694
+        width: 85
+        height: 169
+      alignment: 9
+      pivot: {x: 0.40049404, y: 0.04018858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_02
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 694
+        width: 82
+        height: 169
+      alignment: 9
+      pivot: {x: 0.44842827, y: 0.008908966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_03
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 694
+        width: 84
+        height: 169
+      alignment: 9
+      pivot: {x: 0.393017, y: -0.012987126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_04
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 694
+        width: 74
+        height: 169
+      alignment: 9
+      pivot: {x: 0.46428454, y: 0.01829285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_05
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 694
+        width: 68
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49222878, y: 0.052700788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_jump_06
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 694
+        width: 76
+        height: 169
+      alignment: 9
+      pivot: {x: 0.41653442, y: 0.033932656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_attack_00
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 133
+        width: 95
+        height: 136
+      alignment: 9
+      pivot: {x: 0.24498934, y: 0.048151802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_attack_01
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 133
+        width: 93
+        height: 137
+      alignment: 9
+      pivot: {x: 0.2458588, y: 0.051449962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_attack_02
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 133
+        width: 86
+        height: 137
+      alignment: 9
+      pivot: {x: 0.27326718, y: 0.055762965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_attack_03
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 133
+        width: 89
+        height: 137
+      alignment: 9
+      pivot: {x: 0.28090984, y: 0.055762965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_attack_04
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 133
+        width: 88
+        height: 137
+      alignment: 9
+      pivot: {x: 0.2717063, y: 0.051449962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_attack_05
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 133
+        width: 80
+        height: 137
+      alignment: 9
+      pivot: {x: 0.3005783, y: 0.06007597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_00
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 381
+        width: 72
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49043718, y: 0.06461177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_01
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 380
+        width: 86
+        height: 138
+      alignment: 9
+      pivot: {x: 0.31586084, y: 0.07092175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_02
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 379
+        width: 111
+        height: 139
+      alignment: 9
+      pivot: {x: 0.18383597, y: 0.06905535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_03
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 380
+        width: 135
+        height: 137
+      alignment: 9
+      pivot: {x: 0.035433847, y: 0.05783727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_04
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 381
+        width: 157
+        height: 97
+      alignment: 9
+      pivot: {x: 0.047252875, y: 0.09624206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_05
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 299
+        width: 145
+        height: 66
+      alignment: 9
+      pivot: {x: 0.041988924, y: 0.13410719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_06
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 296
+        width: 157
+        height: 63
+      alignment: 9
+      pivot: {x: 0.015275312, y: 0.14965577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombey_0_dead_07
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 292
+        width: 164
+        height: 69
+      alignment: 9
+      pivot: {x: 0.044639587, y: 0.241835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

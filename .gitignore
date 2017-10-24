@@ -1,0 +1,10 @@
+
+LetsJump_src/Library/*
+LetsJump_src/Temp/*
+LetsJump_src/ProjectSettings/*
+LetsJump_src/obj/*
+
+*.userprefs
+*.sln
+*.csproj
+*.DS_Store
